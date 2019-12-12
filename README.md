@@ -1,6 +1,6 @@
 ## 精准扶贫(Buy Me A Coffee)
 
-<img src="fu_pin.png"/>
+<img src="fu_pin.png"/> <img width="268" height="347" src="hungry.jpg"/>
 
 ## 扶贫方式(Pay Ways)
 
