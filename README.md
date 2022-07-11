@@ -8,7 +8,7 @@
 | ------------------------------ | ---- | ------------------------------ |
 | <img src="qrcode_alipay.jpg"/> |   <img src="qrcode_wxpay.png"/>   | <img src="qrcode_qqpay.png"/> |
 
-### PayPal
-
 [PayPal](https://www.paypal.me/simplepeng)
+
+
 
