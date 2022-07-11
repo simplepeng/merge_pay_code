@@ -10,5 +10,7 @@
 
 [PayPal](https://www.paypal.me/simplepeng)
 
+[赞助列表](https://simplepeng.com/Sponsor)
+
 
 
